@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: lastpossiblesolution/core:0.0.1-dev
+      - image: circleci/python:3.6.1
 
     working_directory: ~/repo
 
