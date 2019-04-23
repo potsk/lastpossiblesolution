@@ -4,4 +4,4 @@ clean-pyc:
 	find . -name '*~' -exec rm -f {} +
 
 test: clean-pyc
-	pytest
+	pytest --cov=./
