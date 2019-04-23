@@ -3,7 +3,7 @@ lastpossiblesolution
 ====================================================
 
 .. image:: https://travis-ci.org/potsk/lastpossiblesolution.png?branch=master
-    :target: https://travis-ci.org/potsk/lastpossiblesolution
+    :target: https://travis-ci.com/potsk/lastpossiblesolution
     :alt: Build Status (Travis CI)
 
 
