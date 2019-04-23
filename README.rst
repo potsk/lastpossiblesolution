@@ -2,7 +2,7 @@
 lastpossiblesolution
 ====================================================
 
-.. image:: https://travis-ci.org/potsk/lastpossiblesolution.png?branch=master
+.. image:: https://travis-ci.com/potsk/lastpossiblesolution.svg?branch=master
     :target: https://travis-ci.com/potsk/lastpossiblesolution
     :alt: Build Status (Travis CI)
 
