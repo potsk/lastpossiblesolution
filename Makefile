@@ -5,3 +5,8 @@ clean-pyc:
 
 test: clean-pyc
 	pytest --cov=./
+
+codecov:
+	codecov
+
+ci: test codecov
